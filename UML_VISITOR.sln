@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UML_VISITOR", "UML_VISITOR\UML_VISITOR.vcxproj", "{640B17DA-97E7-43DD-9D68-1172AB6AE3DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{640B17DA-97E7-43DD-9D68-1172AB6AE3DE}.Debug|x64.ActiveCfg = Debug|x64
+		{640B17DA-97E7-43DD-9D68-1172AB6AE3DE}.Debug|x64.Build.0 = Debug|x64
+		{640B17DA-97E7-43DD-9D68-1172AB6AE3DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{640B17DA-97E7-43DD-9D68-1172AB6AE3DE}.Debug|x86.Build.0 = Debug|Win32
+		{640B17DA-97E7-43DD-9D68-1172AB6AE3DE}.Release|x64.ActiveCfg = Release|x64
+		{640B17DA-97E7-43DD-9D68-1172AB6AE3DE}.Release|x64.Build.0 = Release|x64
+		{640B17DA-97E7-43DD-9D68-1172AB6AE3DE}.Release|x86.ActiveCfg = Release|Win32
+		{640B17DA-97E7-43DD-9D68-1172AB6AE3DE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {702CFAE6-BC87-4725-BB18-1452C066E4E6}
+	EndGlobalSection
+EndGlobal
